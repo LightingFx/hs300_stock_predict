@@ -57,4 +57,5 @@ predict(time_step=args.time_step)<br>
     5、stock_main.py 主函数
 可以调用上述所有函数接口，实现相关功能。<br><br>
 ## 相关论文
-《基于LSTM的股票价格的多分类预测》<br><br>
+《基于LSTM的股票价格的多分类预测》<br><br> 
+论文地址：https://www.hanspub.org/journal/PaperInformation.aspx?paperID=32542<br><br>
